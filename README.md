@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DottedLord
+- 👋 Hi, I’m @Darshan Atwal
 - 👀 I’m interested in machine learning and artificial intellegence
 - 🌱 I’m currently learning python, tensorflow
 - 💞️ I’m looking to collaborate on An A.I useful in healthcare sector
